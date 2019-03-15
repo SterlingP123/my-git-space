@@ -1,2 +1,4 @@
 ## this is my git stuff ##
-i am learning git and i pretty much love it by now.
+this is the advanced web class.
+this week we are learning git.
+git is the worst. we hates it
